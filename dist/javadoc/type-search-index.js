@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"travelexpenses","l":"RouteCalculator"},{"p":"travelexpenses","l":"RouteDriver"}]
